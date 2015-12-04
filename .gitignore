@@ -1,0 +1,6 @@
+#need to ignore some stuff
+*.[ao]
+*~
+.DS_Store
+.DS_Store?
+*.swap
