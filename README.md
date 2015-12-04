@@ -1,5 +1,5 @@
 # Conformity Extraction Program
-===============================
+
 This program aims to find the Ground Truth (this will be used later in this entire project) and to test the Homophily assumption. 
 
 The experimental input data is `Updated.txt`; it contains twitter data and their topic is "LeBron".
